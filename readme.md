@@ -53,6 +53,12 @@ O **Dashboard** é a porta de entrada — o gestor bate o olho e entende a situa
 
 ## 3. Funcionalidades-chave (MVP)
 
+Premissas:
+- Squad de 4-5 pessoas: 1 PM, 1 Designer, 2 Devs Full-stack, 1 Dev ML/Data
+- Sprint de 2 semanas
+- Total MVP: 10 semanas (5 sprints)
+
+
 | Dimensão | Decisão |
 |---|---|
 | **Produto** | Plataforma dual: Dashboard de visibilidade + planos de ação |
